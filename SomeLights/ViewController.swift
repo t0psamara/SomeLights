@@ -29,6 +29,13 @@ class ViewController: UIViewController {
         
         changeValue()
         interactWithLight()
+        
+        
+        
+        
+        
+           
+        
     }
     
     /// Меняем значение флага
